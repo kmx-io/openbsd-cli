@@ -1,0 +1,5 @@
+@comment $OpenBSD$
+include/cli.h
+lib/libcli.a
+lib/libcli.la
+@lib lib/libcli.so.${LIBcli_VERSION}
