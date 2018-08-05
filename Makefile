@@ -24,6 +24,4 @@ CONFIGURE_STYLE= gnu
 
 MAKE_ENV=	CC=gcc
 
-USE_GMAKE=	Yes
-
 .include <bsd.port.mk>
